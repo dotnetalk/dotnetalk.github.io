@@ -16,7 +16,7 @@ body {
   line-height: 1.5;
   font-weight: 300;
   color: #111;
-  background-color: #f8f8f6;
+  background-color: white;
   -webkit-text-size-adjust: 100%; }
 
 /**
@@ -64,10 +64,10 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #9e848d;
+  color: #0078D7;
   text-decoration: none; }
   a:visited {
-    color: #775e67; }
+    color: #004d8b; }
   a:hover {
     color: #111;
     text-decoration: underline; }
@@ -76,8 +76,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #9e848d;
-  border-left: 4px solid #f8f6f7;
+  color: #111;
+  border-left: 4px solid #777777;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -91,7 +91,7 @@ blockquote {
 pre,
 code {
   font-size: 15px;
-  border: 1px solid #f8f6f7;
+  border: 1px solid #777777;
   border-radius: 3px;
   background-color: #eef; }
 
@@ -137,17 +137,15 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #9e848d; }
+    fill: #111; }
 
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid #3e3136;
-  height: 500px;
-  background-image: url(/images/header_bg.jpg);
   background-position: center;
   background-size: cover;
+  background-color: #0078D7;
   position: relative;
   box-shadow: 0px 1.5px 3px 0px rgba(0, 0, 0, 0.1);
   margin-bottom: 20px; }
@@ -161,7 +159,6 @@ pre {
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  background: #3e3136;
   padding: 5px 30px;
   box-shadow: 0px 1.5px 3px 0px rgba(0, 0, 0, 0.1); }
   .site-title, .site-title:visited {
@@ -194,7 +191,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: white;
     line-height: 1.5; }
     .site-nav .page-link:not(:first-child) {
       margin-left: 20px; }
@@ -203,8 +200,8 @@ pre {
       position: absolute;
       top: 9px;
       right: 30px;
-      background-color: #f8f8f6;
-      border: 1px solid #f8f6f7;
+      background-color: white;
+      border: 1px solid #777777;
       border-radius: 5px;
       text-align: right;
       z-index: 100; }
@@ -220,7 +217,7 @@ pre {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #3e3136; }
+            fill: black; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -238,7 +235,7 @@ pre {
   right: 10%;
   background: rgba(255, 255, 255, 0.5);
   padding: 2%;
-  color: #3e3136;
+  color: black;
   font-size: 14px; }
   @media screen and (max-width: 600px) {
     .site-description {
@@ -250,17 +247,16 @@ pre {
  * Site footer
  */
 .site-footer {
-  border-top: 1px solid #f8f6f7;
   padding: 30px 0;
-  background: #f0e9e4; }
+  background: #F2F2F2; }
   .site-footer p {
     margin: 0;
     font-size: 12px;
     text-align: left;
-    color: #3e3136;
+    color: black;
     position: relative; }
   .site-footer a {
-    color: #3e3136; }
+    color: black; }
   .site-footer span.aff {
     margin-right: 60px;
     float: right; }
@@ -299,7 +295,7 @@ pre {
     padding-top: 138px;
     padding-bottom: 5px;
     background: #fff;
-    border: 1px solid #9e848d;
+    border: 1px solid #111;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
@@ -316,7 +312,7 @@ pre {
     display: none; }
     .site-footer .zhifubao-qr:before {
       content: "";
-      border-top: 10px solid #9e848d;
+      border-top: 10px solid #111;
       border-left: transparent 10px solid;
       border-right: transparent 10px solid;
       position: absolute;
@@ -342,7 +338,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #9e848d;
+  color: #111;
   margin-left: -15px; }
 
 .footer-col {
@@ -377,7 +373,7 @@ pre {
 .latest-entry,
 .post,
 .post-comment {
-  background: #fff;
+  background: #F2F2F2;
   box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
   padding: 2%;
   margin-bottom: 50px; }
@@ -416,10 +412,10 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #9e848d;
+  color: #111;
   margin-bottom: 15px; }
   .post-meta a {
-    color: #9e848d; }
+    color: #111; }
 
 .post-date {
   max-width: 80px;
@@ -429,14 +425,14 @@ pre {
     width: 60px;
     height: 60px;
     font: normal normal bold 2.4rem/4.9rem "Verdana",sans-serif;
-    background: #9e848d;
+    background: #0078D7;
     color: #fff;
     text-align: center;
     margin: 10px auto; }
   .post-date .month {
     text-align: center;
     font-weight: bold;
-    color: #3e3136; }
+    color: black; }
   @media screen and (max-width: 600px) {
     .post-date {
       display: block;
@@ -477,9 +473,9 @@ pre {
 .post-link {
   display: inline;
   font-size: 24px;
-  color: #775e67; }
+  color: #004d8b; }
   .post-link:visited {
-    color: #4d3c42; }
+    color: #00233e; }
 
 @media screen and (max-width: 600px) {
   .footer-col {

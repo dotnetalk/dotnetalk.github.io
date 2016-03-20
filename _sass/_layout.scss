@@ -2,11 +2,9 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    height: 500px;
-    background-image: url(/images/header_bg.jpg);
     background-position: center;
     background-size: cover;
+    background-color: #0078D7;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -24,7 +22,6 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    background: $grey-color-dark;
     padding: 5px 30px;
     box-shadow: 0px 1.5px 3px 0px rgba(0, 0, 0, 0.1);
 
@@ -73,7 +70,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: white;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -151,9 +148,8 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
-    background: #f0e9e4;
+    background: #F2F2F2;
 
     p {
         margin: 0;
@@ -315,7 +311,7 @@
 .latest-entry,
 .post,
 .post-comment {
-    background: #fff;
+    background: #F2F2F2;
     box-shadow: 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
     padding: 2%;
     margin-bottom: 50px;
@@ -382,7 +378,7 @@
         width: 60px;
         height: 60px;
         font: normal normal bold 2.4rem/4.9rem "Verdana",sans-serif;
-        background: $grey-color;
+        background: #0078D7;
         color: #fff;
         text-align: center;
         margin: 10px auto;
