@@ -6,7 +6,7 @@ audiolink: http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-episode-1.mp3
 categories: podcast 
 podcasttype: audio/mpeg
 podcastlength: 2162
-bytelength: 34599496 
+bytelength: 17300058 
 episodeid: 1
 ---
 
