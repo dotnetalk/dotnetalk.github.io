@@ -12,4 +12,19 @@ episodeid: 1
 
 科技公司主办技术会议在欧美早有传统，近年在国内也是如此。微软公司就办过PDC、MIX、TechEd、Build、Ignite、Connect等各式各样的会议。其中Build大会作为近年来聚焦于 Windows 平台各种新技术发布的一个新平台，已经越来越受到大家的关注。今年的Build大会即将于三月三十日在美国西岸城市旧金山召开。在此次盛会开幕之前，由吕鹏和Lex Li二位带你先行回顾下 Build 2011-2015的往届热点。我们也将结合近期各种消息源，尝试猜测 Build 2016会给各位带来何种惊喜。
 
-####相关链接：
+###相关链接
+* [Build 2016](https://build.microsoft.com/)
+* [MSDN](https://msdn.com)
+* [Professional Developers Conference](https://en.wikipedia.org/wiki/Professional_Developers_Conference)
+* [MIX](https://www.microsoft.com/events/mix/)
+* [TypeScript](http://www.typescriptlang.org/)
+* [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg)
+* [CoffeeScript](http://coffeescript.org/)
+* [AtScript Primer](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?pli=1&viewopt=127)
+* [Scott Guthrie](https://weblogs.asp.net/scottgu)
+* [CodeRush](https://www.google.com/search?q=coderush&oq=coderush&aqs=chrome..69i57.18214j0j7&sourceid=chrome&es_sm=93&ie=UTF-8)
+* [.NET Foundation](http://www.dotnetfoundation.org/)
+* [JetBrains Project Rider](https://www.jetbrains.com/rider/)
+* [Xamarin](http://http://xamarin.com/)
+* [Team Explorer Everywhere](https://github.com/Microsoft/team-explorer-everywhere)
+* [SQL Server on Linux](https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/)
