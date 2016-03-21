@@ -2,7 +2,7 @@
 <rss version="2.0"  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>.NET FM</title>
-    <description>额，我竟无语凝噎...
+    <description>致力于推广 .NET 和微软技术的一档非典型严肃播客
 </description>
     <link>http://dotnet.fm/</link>
     <language>zh-CN</language>
@@ -10,38 +10,57 @@
     <image>
       <title>.NET FM</title>
       <link>http://dotnet.fm/</link>
-      <url>http://7sbn7z.com5.z0.glb.clouddn.com/threecast-logo.jpg</url>
+      <url>http://7sbn7z.com5.z0.glb.clouddn.com/logo-1400.png</url>
     </image>
-    <itunes:author>Three Cast</itunes:author>
-    <itunes:subtitle>额，我竟无语凝噎...
+    <itunes:author>.NET FM</itunes:author>
+    <itunes:subtitle>致力于推广 .NET 和微软技术的一档非典型严肃播客
 </itunes:subtitle>
-    <itunes:summary>Podcast by Threecast.</itunes:summary>
+    <itunes:summary>Podcast by .NET FM.</itunes:summary>
     <itunes:owner>
-      <itunes:name>Three Cast</itunes:name>
-      <itunes:email>hi@three.sh</itunes:email>
+      <itunes:name>.NET FM</itunes:name>
+      <itunes:email>hi@dotnet.fm</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://7sbn7z.com5.z0.glb.clouddn.com/threecast-logo.jpg"/>
+    <itunes:image href="http://7sbn7z.com5.z0.glb.clouddn.com/logo-1400.png"/>
+	<itunes:keywords>.NET,Lextm,Lex Li,rebornix,Peng Lv,Microsoft,Windows,Azure,C#,TypeScript,MVP,Build</itunes:keywords>
     <itunes:category text="Technology" />
     
       <item>
-        <title>Build</title>
+        <title>第一弹：Build 的那几年</title>
         <description><![CDATA[ 
         <p>科技公司主办技术会议在欧美早有传统，近年在国内也是如此。微软公司就办过PDC、MIX、TechEd、Build、Ignite、Connect等各式各样的会议。其中Build大会作为近年来聚焦于 Windows 平台各种新技术发布的一个新平台，已经越来越受到大家的关注。今年的Build大会即将于三月三十日在美国西岸城市旧金山召开。在此次盛会开幕之前，由吕鹏和Lex Li二位带你先行回顾下 Build 2011-2015的往届热点。我们也将结合近期各种消息源，尝试猜测 Build 2016会给各位带来何种惊喜。</p>
 
-<h4 id="section">相关链接：</h4>
+<p>相关链接</p>
+
+<ul>
+  <li><a href="https://build.microsoft.com/">Build 2016</a></li>
+  <li><a href="https://msdn.com">MSDN</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Professional_Developers_Conference">Professional Developers Conference</a></li>
+  <li><a href="https://www.microsoft.com/events/mix/">MIX</a></li>
+  <li><a href="http://www.typescriptlang.org/">TypeScript</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Anders_Hejlsberg">Anders Hejlsberg</a></li>
+  <li><a href="http://coffeescript.org/">CoffeeScript</a></li>
+  <li><a href="https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?pli=1&amp;viewopt=127">AtScript Primer</a></li>
+  <li><a href="https://weblogs.asp.net/scottgu">Scott Guthrie</a></li>
+  <li><a href="https://www.google.com/search?q=coderush&amp;oq=coderush&amp;aqs=chrome..69i57.18214j0j7&amp;sourceid=chrome&amp;es_sm=93&amp;ie=UTF-8">CodeRush</a></li>
+  <li><a href="http://www.dotnetfoundation.org/">.NET Foundation</a></li>
+  <li><a href="https://www.jetbrains.com/rider/">JetBrains Project Rider</a></li>
+  <li><a href="http://http://xamarin.com/">Xamarin</a></li>
+  <li><a href="https://github.com/Microsoft/team-explorer-everywhere">Team Explorer Everywhere</a></li>
+  <li><a href="https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/">SQL Server on Linux</a></li>
+</ul>
 
         ]]>
         </description>
-        <pubDate>Sat, 19 Mar 2016 23:21:00 +0800</pubDate>
-        <link>http://dotnet.fm/podcast/2016/03/19/episode1.html</link>
-        <guid isPermaLink="true">http://dotnet.fm/podcast/2016/03/19/episode1.html</guid>
+        <pubDate>Sun, 20 Mar 2016 23:21:00 +0800</pubDate>
+        <link>http://dotnet.fm/podcast/2016/03/20/episode1.html</link>
+        <guid isPermaLink="true">http://dotnet.fm/podcast/2016/03/20/episode1.html</guid>
         
         
         <category>podcast</category>
         
-        <enclosure url="http://three-cast.b0.upaiyun.com/threecast-episode4.mp3" length="35942507" type="audio/mpeg" />
-        <itunes:author>Three Cast</itunes:author>
+        <enclosure url="http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-episode-1.mp3" length="34599496" type="audio/mpeg" />
+        <itunes:author>.NET FM</itunes:author>
         <itunes:explicit>No</itunes:explicit>
         <itunes:subtitle> <![CDATA[ 
           <p>科技公司主办技术会议在欧美早有传统，近年在国内也是如此。微软公司就办过PDC、MIX、TechEd、Build、Ignite、Connect等各式各样的会议。其中Build大会作为近年来聚焦于 Windows 平台各种新技术发布的一个新平台，已经越来越受到大家的关注。今年的Build大会即将于三月三十日在美国西岸城市旧金山召开。在此次盛会开幕之前，由吕鹏和Lex Li二位带你先行回顾下 Build 2011-2015的往届热点。我们也将结合近期各种消息源，尝试猜测 Build 2016会给各位带来何种惊喜。</p>
@@ -52,11 +71,29 @@
         <itunes:summary> <![CDATA[ 
           <p>科技公司主办技术会议在欧美早有传统，近年在国内也是如此。微软公司就办过PDC、MIX、TechEd、Build、Ignite、Connect等各式各样的会议。其中Build大会作为近年来聚焦于 Windows 平台各种新技术发布的一个新平台，已经越来越受到大家的关注。今年的Build大会即将于三月三十日在美国西岸城市旧金山召开。在此次盛会开幕之前，由吕鹏和Lex Li二位带你先行回顾下 Build 2011-2015的往届热点。我们也将结合近期各种消息源，尝试猜测 Build 2016会给各位带来何种惊喜。</p>
 
-<h4 id="section">相关链接：</h4>
+<p>相关链接</p>
+
+<ul>
+  <li><a href="https://build.microsoft.com/">Build 2016</a></li>
+  <li><a href="https://msdn.com">MSDN</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Professional_Developers_Conference">Professional Developers Conference</a></li>
+  <li><a href="https://www.microsoft.com/events/mix/">MIX</a></li>
+  <li><a href="http://www.typescriptlang.org/">TypeScript</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Anders_Hejlsberg">Anders Hejlsberg</a></li>
+  <li><a href="http://coffeescript.org/">CoffeeScript</a></li>
+  <li><a href="https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?pli=1&amp;viewopt=127">AtScript Primer</a></li>
+  <li><a href="https://weblogs.asp.net/scottgu">Scott Guthrie</a></li>
+  <li><a href="https://www.google.com/search?q=coderush&amp;oq=coderush&amp;aqs=chrome..69i57.18214j0j7&amp;sourceid=chrome&amp;es_sm=93&amp;ie=UTF-8">CodeRush</a></li>
+  <li><a href="http://www.dotnetfoundation.org/">.NET Foundation</a></li>
+  <li><a href="https://www.jetbrains.com/rider/">JetBrains Project Rider</a></li>
+  <li><a href="http://http://xamarin.com/">Xamarin</a></li>
+  <li><a href="https://github.com/Microsoft/team-explorer-everywhere">Team Explorer Everywhere</a></li>
+  <li><a href="https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/">SQL Server on Linux</a></li>
+</ul>
 
         ]]>
         </itunes:summary>
-        <itunes:duration>4493</itunes:duration>
+        <itunes:duration>2162</itunes:duration>
       </item>
     
 </channel>
