@@ -1,6 +1,6 @@
 # Site settings
 title: .NET FM
-email: hi@dotnet.net
+email: hi@dotnet.fm
 description: > # this means to ignore newlines until "baseurl:"
   致力于推广 .NET 和微软技术的一档非典型严肃播客
 baseurl: "" # the subpath of your site, e.g. /blog/
