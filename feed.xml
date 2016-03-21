@@ -22,7 +22,7 @@ layout: null
       <itunes:email>{{ site.data.author.email }}</itunes:email>
     </itunes:owner>
     <itunes:explicit>No</itunes:explicit>
-    <itunes:image href="http://7sbn7z.com5.z0.glb.clouddn.com/threecast-logo.jpg"/>
+    <itunes:image href="http://7sbn7z.com5.z0.glb.clouddn.com/logo-1400.png"/>
     <itunes:category text="Technology" />
     {% for post in site.categories.podcast %}
       <item>
