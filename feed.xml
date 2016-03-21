@@ -12,7 +12,7 @@ layout: null
     <image>
       <title>{{ site.title | xml_escape }}</title>
       <link>{{ site.url }}{{ site.baseurl }}/</link>
-      <url>http://7sbn7z.com5.z0.glb.clouddn.com/threecast-logo.jpg</url>
+      <url>http://7sbn7z.com5.z0.glb.clouddn.com/logo-1400.png</url>
     </image>
     <itunes:author>{{ site.data.author.name }}</itunes:author>
     <itunes:subtitle>{{ site.description | xml_escape | truncatewords 250 }}</itunes:subtitle>
