@@ -2,7 +2,7 @@
 layout: post
 title: 第一弹：Build 的那几年
 date: 2016-03-20 15:21:00
-audiolink: http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-episode-1.mp3
+audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-1.mp3
 categories: podcast 
 podcasttype: audio/mpeg
 podcastlength: 2162
