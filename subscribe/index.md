@@ -6,7 +6,7 @@ title: 订阅
 如果您的设备上并没有安装任何的泛用型（通用型）播客客户端（即可以订阅收听任何符合播客标准的音频的播放器），您可以选择一下平台收听我们的节目，排名不分先后：
 
 * 本站
-* [喜马拉雅](http://www.ximalaya.com/zhubo/45305355)
+* [喜马拉雅](http://www.ximalaya.com/zhubo/45305355)，喜马拉雅的订阅方式见[此条]()
 
 ## 泛用型播客客户端
 ### iTunes 订阅
@@ -60,3 +60,23 @@ title: 订阅
 3. 最后进入到 .NET FM 播客的介绍页面，点击`订阅`就可以收听我们的播客啦！
 
    ![step 3](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-android-03.jpg-dotnet)
+
+
+## 其他
+### 喜马拉雅
+1.  打开喜马拉雅FM应用
+
+    ![](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-ximalaya-01.png-dotnet) 
+    
+2.  点击右上角的搜索按钮打开搜索页面
+
+    ![](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-ximalaya-02.png-dotnet) 
+    
+3. 在搜索页面中查找“dotnetfm”。
+
+    ![](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-ximalaya-03.png-dotnet) 
+    
+4. 点击主播DotNetFM，并关注
+
+    ![](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-ximalaya-04.png-dotnet) 
+    
