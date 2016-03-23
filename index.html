@@ -4,6 +4,16 @@ layout: default
 
 <div class="home">
   <div class="latest-entry">
+	<div class="post-date">
+      <div class="day">23</div>
+      <div class="month">Mar</div>
+    </div>
+	 <div class="entry-info">
+		<h1><a href="/subscribe/">如何收听 .NET FM </a></h1>
+		<div class="entry-content">教你如何在 iTunes、iPhone、Android、喜马拉雅等平台上收听订阅我们的播客</div>
+	</div>
+  </div>
+  <div class="latest-entry">
     {% assign post = site.posts.first %}
     <div class="post-date">
       <div class="day">{{ post.date | date: "%-d" }}</div>

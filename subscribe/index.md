@@ -1,9 +1,15 @@
 ---
-layout: post
-title: 订阅指南
+layout: page
+title: 订阅
 ---
+## 播客平台
+如果您的设备上并没有安装任何的泛用型（通用型）播客客户端（即可以订阅收听任何符合播客标准的音频的播放器），您可以选择一下平台收听我们的节目，排名不分先后：
 
-## iTunes 订阅
+* 本站
+* [喜马拉雅](http://www.ximalaya.com/zhubo/45305355)
+
+## 泛用型播客客户端
+### iTunes 订阅
 1.	打开 iTunes。
 
 	![](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-itunes-01.png-dotnet) 
@@ -18,7 +24,7 @@ title: 订阅指南
 
 4.	点击 Subscribe 按钮订阅即可。
 
-## iPhone
+### iPhone
 1.	打开 Podcast 应用。
 
     ![](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-iphone-01.png-dotnet) 
@@ -39,7 +45,7 @@ title: 订阅指南
 
     ![](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-iphone-05.png-dotnet) 
  
-## Android
+### Android
 
 这里我们拿 Android 上一款开源的播客播放器 AntennaPod 举例。
 
