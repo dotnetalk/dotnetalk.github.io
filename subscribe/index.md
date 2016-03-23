@@ -9,7 +9,9 @@ title: 订阅
 * [喜马拉雅](http://www.ximalaya.com/zhubo/45305355)，喜马拉雅的订阅方式见[此条](#ximalaya)
 
 ## 泛用型播客客户端
+
 ### iTunes 订阅
+
 1.	打开 iTunes。
 
 	![](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-itunes-01.png-dotnet) 
@@ -25,6 +27,7 @@ title: 订阅
 4.	点击 Subscribe 按钮订阅即可。
 
 ### iPhone
+
 1.	打开 Podcast 应用。
 
     ![](http://7sbn7z.com5.z0.glb.clouddn.com/dotnet-iphone-01.png-dotnet) 
