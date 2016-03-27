@@ -1,0 +1,18 @@
+---
+layout: post
+title: 第二弹：来者何人开篇－－主播的心路历程
+date: 2016-03-27 20:20:00
+audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-2.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 2685
+bytelength: 16112075
+episodeid: 2
+---
+
+微软公司进入中国已有超过二十年历史，因此国内微软技术社区在它多年耕耘之后也是繁花似锦。我们将在全新启动的“来者何人”系列中，对于国内微软技术社区的专家们一一访谈，挖掘他们的成长经历和人生感悟，以饲听众。本期节目就先由二位主播吕鹏和Lex Li介绍他们各自的心路历程，揭秘一下如何成为微软员工或者微软MVP技术专家。
+
+相关链接
+
+* [微软招聘](http://joinms.com)
+* [摩根士丹利实习生招聘](https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-3786f0ce9359/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_17051_lk=1038&f_Item_Opportunity_17048_lk=770&f_Item_Opportunity_17059_lk=510400)
