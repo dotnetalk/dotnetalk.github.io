@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 第二弹：来者何人开篇－－主播的心路历程
-date: 2016-03-27 20:20:00
+date: 2016-03-27 08:20:00
 audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-2.mp3
 categories: podcast 
 podcasttype: audio/mpeg
