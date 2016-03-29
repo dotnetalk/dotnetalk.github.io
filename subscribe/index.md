@@ -6,7 +6,9 @@ title: 订阅
 如果您的设备上并没有安装任何的泛用型（通用型）播客客户端（即可以订阅收听任何符合播客标准的音频的播放器），您可以选择一下平台收听我们的节目，排名不分先后：
 
 * 本站
-* [喜马拉雅](http://www.ximalaya.com/zhubo/45305355)，喜马拉雅的订阅方式见[此条](#ximalaya)
+* [喜马拉雅](http://www.ximalaya.com/zhubo/45305355)
+* [荔枝 FM ](http://www.lizhi.fm/1996857/)
+* [蜻蜓 FM](http://www.qingting.fm/#/vchannels/147160)
 
 ## 泛用型播客客户端
 
