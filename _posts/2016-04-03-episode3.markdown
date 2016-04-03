@@ -1,0 +1,17 @@
+---
+layout: post
+title: 第三弹：兑现承诺－－主播眼中的Build 2016
+date: 2016-04-03 08:20:00
+audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-3.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 1838
+bytelength: 29415870
+episodeid: 3
+---
+
+微软公司从三月初起连续公布一系列重要新闻，如 SQL Server on Linux，如加入Eclipse基金会，如HoloLens将正式发货，都使得大家更加关注三月底在旧金山举办的Build大会。本期节目由二位主播回顾大会中精彩的主题演讲内容，并为你梳理不可不关注的技术焦点。
+
+相关链接
+
+* [Build 2016](http://buildwindows.com)
