@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #4. 来者何人－－与资深 Cloud OPS 架构师钱永超聊 Linux <3 .NET
+title: "#4. 来者何人－－与资深 Cloud OPS 架构师钱永超聊 Linux <3 .NET"
 date: 2016-04-10 18:20:00
 audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-4.mp3
 categories: podcast 
