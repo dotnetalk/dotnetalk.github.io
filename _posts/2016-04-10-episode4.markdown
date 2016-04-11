@@ -12,7 +12,7 @@ episodeid: 4
 
 无论是三月底 Red Hat, JetBrains 和 Unity 宣布加入 .NET Foundation，还是微软一直持续高喊的 "Microsoft <3 Linux"，种种迹象表明，微软技术圈和 Unix/Linux 世界的关系仿佛从当年 "Linux is a cancer" 的阴霾中走了出来。本期我们邀请到了原携程私有云架构师、eBay Staff Unix System Admin 钱永超来和我们聊聊，作为一个浸淫在 *inx 世界快十年的工程师，是如何提起「勇气」迈出跨界 .NET 圈的第一步的。两位主播也不忘借此机会偷师一二，向钱老师讨教如何学习 Linux 以及 Docker 相关的知识，跟上 .NET 跨平台的浪潮。
 
-钱永超目前正在运营微信公众号 Linux 之路，帮助大家在点滴时间学习 Linux 领域的知识，搜索 linuxroad 即可订阅，记住要认准"Linux inside" 的 logo 哦！
+钱永超目前正在运营微信公众号 Linux 之路，帮助大家在点滴时间学习 Linux 领域的知识，搜索 linuxroad 即可订阅，记住要认准"Linux inside" 的 logo 哦！喜欢使用 RSS 订阅或者在线浏览的朋友，也可以访问 [linuxroad.cn](http://linuxroad.cn)。
 
 人物简介：
 钱永超，原携程私有云系统架构师，此前先后供职于Sun Microsystems (成都)，eBay中国运维中心（上海）。从小型机时代的厂商工程师，互联网公司的系统运维，再到今天的云系统架构，一路走来，不变的是对技术的热爱。最大的愿望是有生之年可以见证技术奇点（singularity）的到来。目前创业中。
