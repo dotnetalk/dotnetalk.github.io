@@ -23,7 +23,7 @@ layout: default
       <h1 class="entry-title">
       {% assign content = post.content %}
       {% if post.title %}
-      <a href="{{ root_url }}{{ post.url }}">#{{ post.episodeid }}. {{ post.title }}</a>
+      <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
       {% endif %}
       </h1>
       <div class="post-meta"><a href="{{ post.audiolink }}">Download Episode</a> • <a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a></div>
@@ -44,7 +44,7 @@ layout: default
         </div>
         <div class="post-info">
           <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">#{{ post.episodeid }}. {{ post.title }}</a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           </h2>
           <div class="post-meta"><a href="{{ post.audiolink }}">Download Episode</a> • <a href="{{ root_url }}{{ post.url }}#disqus_thread">Comments</a></div>
           <audio class="episode-player" controls="">
