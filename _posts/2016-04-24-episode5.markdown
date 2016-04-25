@@ -1,0 +1,27 @@
+---
+layout: post
+title: "#5. 来者何人－－与资深架构师、微软 MVP 张善友探讨 .NET 跨平台和技术人的追求"
+date: 2016-04-24 20:20:00
+audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-5.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 2117
+bytelength: 33884538  
+episodeid: 5
+---
+
+本期我们请来了 .NET 跨平台重量级嘉宾张善友老师，聊一聊他十多年的技术生涯以及如何在腾讯使用 .NET 跨平台技术实现日均千万级访问量的基础服务平台。善友老师还不忘给两位主播分享了他两次受邀到微软西雅图总部的有趣经历。
+
+人物简介：
+张善友，毕业于兰州大学数学系，现任职于腾讯公司企业 IT 部，2006 年到 2016 年连续 11 年微软 ASP.NET/IIS MVP。专注于 .NET 的企业应用开发，关注前沿技术，并致力于开源社区与微软平台的组合应用，致力于 .NET 跨平台在社区中的推广。个人博客是 [http://www.cnblogs.com/shanyou](http://www.cnblogs.com/shanyou)，微信公众号名称 dotNET跨平台。
+
+相关链接：
+
+* [Richard Stallman](https://stallman.org)
+* [Miguel de Icaza](https://en.wikipedia.org/wiki/Miguel_de_Icaza)
+* [Unity : Developing Your First Game with Unity and C#](https://msdn.microsoft.com/en-us/magazine/dn759441.aspx)
+* [WCF](https://msdn.microsoft.com/en-us/library/ms731082.aspx)
+* [SignalR](http://signalr.net/)
+* [ASP.NET Team Blog](http://www.asp.net/community/microsoft-blogs)
+* [Cordova](https://cordova.apache.org/)
+* [React](https://github.com/facebook/react)
