@@ -1,0 +1,25 @@
+---
+layout: post
+title: "#6 来者何人一一与跨平台移动开发专家卢建晖谈 Evolve 2016"
+date: 2016-05-05 00:20:00
+audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-6.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 2028
+bytelength: 32450485  
+episodeid: 6
+---
+
+Xamarin被微软公司收购之后，已经在三月底Build大会上展示了部分新技术，这让人对四月底Evolve大会充满期待。上周，果不其然Xamarin在主题演讲中发布了Xamarin.Forms Previewer等令人兴奋的新产品。本期节目，我们请来国内跨平台移动应用开发专家卢建晖，为大家回顾此次大会的亮点。
+
+相关链接：
+
+* [Xamarin Evolve 2016](https://evolve.xamarin.com/)
+* [Xamarin Test Cloud](https://www.xamarin.com/test-cloud)
+* [Xamarin Workbooks](https://developer.xamarin.com/guides/cross-platform/workbooks/)
+* [iOS Emulator](https://developer.xamarin.com/guides/ios/getting_started/installation/windows/introduction_to_xamarin_ios_for_visual_studio/)
+* [#Develop/SharpDevelop](http://www.icsharpcode.net/opensource/sd/)
+* [MonoDevelop](http://www.monodevelop.com/)
+* [Code Project](http://www.codeproject.com/)
+* [docs.microsoft.com](http://docs.microsoft.com)
+* [Instant Run](http://tools.android.com/tech-docs/instant-run)
