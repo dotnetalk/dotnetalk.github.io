@@ -8,6 +8,7 @@ podcasttype: audio/mpeg
 podcastlength: 2028
 bytelength: 32450485  
 episodeid: 6
+excerpt: "Xamarin被微软公司收购之后，已经在三月底Build大会上展示了部分新技术，这让人对四月底Evolve大会充满期待。上周，果不其然Xamarin在主题演讲中发布了Xamarin.Forms Previewer等令人兴奋的新产品。本期节目，我们请来国内跨平台移动应用开发专家卢建晖，为大家回顾此次大会的亮点。"
 ---
 
 Xamarin被微软公司收购之后，已经在三月底Build大会上展示了部分新技术，这让人对四月底Evolve大会充满期待。上周，果不其然Xamarin在主题演讲中发布了Xamarin.Forms Previewer等令人兴奋的新产品。本期节目，我们请来国内跨平台移动应用开发专家卢建晖，为大家回顾此次大会的亮点。
