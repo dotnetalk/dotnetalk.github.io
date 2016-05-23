@@ -1,0 +1,22 @@
+---
+layout: post
+title: "#8 谁说开源就聊不得"
+date: 2016-05-23 00:20:00
+audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-8.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 3446
+bytelength: 55138180   
+episodeid: 8
+---
+
+某位主播依然在异国他乡鬼混，导致 .NET FM 近期的上线各种不规律，在被另一位主播批评后决定改正，深夜录制了本期海外特别档。随着大公司纷纷改头换面拥抱开源，主播们的工作也逐渐从闭源商业软件或服务开始往开源的方向上不断靠近，这一期在四五年前还是不敢想象的。两位分享了从各自第一次接触开源到深度参与、主持开源项目中间发生的种种故事，探讨了 Open Source, Free Software，GPL 还是 MIT 等等容易被人们混淆的误区，力求给希望参与到开源运动中的听众们一些中肯的建议。
+
+相关链接：
+
+* [谈 Linux，Windows 和 Mac](http://www.yinwang.org/blog-cn/2013/03/07/linux-windows-mac)
+* [Code Beautifier Collection](https://github.com/lextm/lextudio)
+* [mysql dual license](http://www.mysql.com/about/legal/licensing/oem/)
+* [Choose a license](http://choosealicense.com/)
+* [Jekyll 3.0: Fix casing in `:title` and add `:slug` for automatic downcasing in URLs](https://github.com/jekyll/jekyll/pull/4100)
+* [M8 Theme Builder](http://m8-theme-builder.software.informer.com/download/)
