@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#9 Visual Studio Code解密第二季：大师面对面"
-date: 2016-05-31 00:20:00
+date: 2016-05-30 00:20:00
 audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-9.mp3
 categories: podcast 
 podcasttype: audio/mpeg
@@ -10,6 +10,4 @@ bytelength: 56822973
 episodeid: 9
 ---
 
-
-
-相关链接：
+主播吕鹏本月在微软总部盘桓了三周时间。这段意外旅行始于大洋彼岸的邀情，那么是谁如此热情？在这匆匆三周之内又发生了什么故事呢？而且这旅行和这个标题又有什么关联呢？小编请你静心试听一下，答案不久送上！
