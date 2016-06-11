@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "番外 -- .NET FM 前的故事"
-date: 2016-06-11 00:20:00
+date: 2016-06-12 00:20:00
 audiolink: http://dotnet.b0.upaiyun.com/dotnetfm-episode-stories-behind.mp3
 categories: podcast 
 podcasttype: audio/mpeg
