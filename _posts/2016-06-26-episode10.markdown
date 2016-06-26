@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 第十弹：漫谈 WWDC 2016
+title: #10：漫谈 WWDC 2016
 date: 2016-06-26 00:20:00
 audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-10.mp3
 categories: podcast 
