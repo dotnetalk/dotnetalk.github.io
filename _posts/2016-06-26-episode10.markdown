@@ -1,0 +1,13 @@
+---
+layout: post
+title: 第十弹：漫谈 WWDC 2016
+date: 2016-06-26 00:20:00
+audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-10.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 3616
+bytelength: 57854075
+episodeid: 10
+---
+
+苹果公司每年除去春秋两季的新产品发布会，其实还举办一次完全面向开发者的技术会议，即WWDC大会。卢建晖老师再次光临，为大家安利一下今年的WWDC为我们带来了哪些新技术。
