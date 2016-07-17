@@ -1,0 +1,12 @@
+---
+layout: post
+title: "#11 远程办公距离我们有多远？"
+date: 2016-07-17 00:20:00
+audiolink: http://dotnet.b0.upaiyun.com/dotnet-episode-11.mp3
+categories: podcast 
+podcasttype: audio/mpeg
+podcastlength: 1721 
+bytelength: 27538673 
+---
+
+在IT行业远程办公并不是一个新鲜事物，但真的试验下就会发现看似简单的工作方式，既带来了种种便利，又对自己提出了更高的要求。本期吕鹏同学现身说法，讲讲他短短一个月的体会（另一位主播纯打酱油
