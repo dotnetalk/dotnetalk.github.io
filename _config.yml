@@ -2,7 +2,7 @@
 title: .NET FM
 email: hi@dotnet.fm
 description: > # this means to ignore newlines until "baseurl:"
-  致力于推广 .NET 和微软技术的一档非典型严肃播客
+  致力于推广微软技术的一档非典型严肃播客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dotnet.fm" # the base hostname & protocol for your site
 twitter_username: dotnetalk
